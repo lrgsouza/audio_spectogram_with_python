@@ -32,12 +32,12 @@ This Python project aims to plot audio spectrograms in 2D and 3D. A spectrogram 
 
 ## Usage
 
-Run the command bellow in your terminal:
+Run the command below in your terminal:
    ```bash
     python main.py
    ```
 This will generate and display the spectrograms of the default audio file.
-If you want to generate the spectrograms with a custom audio file, change the variable _audio_file_, as bellow:
+If you want to generate the spectrograms with a custom audio file, change the variable _audio_file_, as below:
 
 ```python
 audio_file = 'custom_audio.wav'
