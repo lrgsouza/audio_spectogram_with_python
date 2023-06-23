@@ -1,5 +1,5 @@
 
-# 2D and 3D Audio Spectogram using Python
+# 2D and 3D Audio Spectrogram using Python
 
 This Python project aims to plot audio spectrograms in 2D and 3D. A spectrogram is a visual representation of the spectral intensity of an audio signal as a function of time. It is a useful tool for analyzing and visualizing the temporal and frequency characteristics of an audio signal.
 
